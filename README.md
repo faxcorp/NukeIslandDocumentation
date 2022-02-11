@@ -1,6 +1,11 @@
 # NukeIslandDocumentation
 Nuke Island Project Unreal Marketplace Docs
 
+To fix any Virtual Texture glitches (flickering and stuff) be sure to edit your engines "BaseEngine.ini" Virtual Texture parameters to enlarge the memory pool:
+
+![image](https://user-images.githubusercontent.com/37246339/153584612-80383bf9-90bd-4e24-b1e4-997ba90f9d66.png)
+
+
 To merge Nuke Island project to an existing project do following steps:
 
 ![defaultengine](https://user-images.githubusercontent.com/37246339/152350199-2402eac2-141f-459a-bcf1-820f3db28a87.jpg)
