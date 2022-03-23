@@ -1,4 +1,4 @@
-Doing developmental testing, valued discord user mindframes#3572, unveiled various UE5 caviats concerning rendering issues as follows:
+Doing UE5.0 preview developmental testing, valued discord user mindframes#3572, unveiled various UE5 caviats concerning rendering issues as follows:
 
 
 1. If you run in VR, in some configurations you may notice all water surfaces seemingly flickering -- check to see if the left eye is rendering differently from the right eye. If they are showing different things, [turn off Instanced Stereo](https://forums.unrealengine.com/t/4-26-water-system-in-vr-havent-gotten-it-to-work-properly-yet/155231/3).
