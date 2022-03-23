@@ -1,5 +1,6 @@
 # NukeIslandDocumentation
 Nuke Island Project Unreal Marketplace Docs
+For UE5 caveats see UE5 readme
 
 To fix any Virtual Texture glitches (flickering and stuff) be sure to edit your engines "BaseEngine.ini" Virtual Texture parameters to enlarge the memory pool:
 
